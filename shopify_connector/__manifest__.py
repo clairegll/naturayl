@@ -7,7 +7,7 @@
         subtitle on modules listing or apps.openerp.com""",
 
     'description': """
-        Long description of module's purpose
+        Shopify Connector
     """,
 
     'author': "Claire Guillou",
