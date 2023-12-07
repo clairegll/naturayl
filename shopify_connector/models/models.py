@@ -6,7 +6,6 @@ class shopify_connector(models.Model):
     _name = 'shopify_connector.shopify_connector'
 
     name = fields.Char()
-    value = fields.Integer()
     value2 = fields.Float(compute="_value_pc", store=True)
     description = fields.Text()
 
